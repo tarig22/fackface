@@ -288,7 +288,7 @@
                     <div>
                       <div class="_52jj _3-q2">
                         <img
-                          src="https://z-m-scontent.fkrt1-1.fna.fbcdn.net/v/t39.2081-6/c0.0.76.76a/p75x75/15608905_1224009297638568_1148776955655487488_n.png?_nc_cat=1&amp;ccb=1-5&amp;_nc_sid=eaa83b&amp;_nc_ohc=iStpQuFM2G0AX9tNkkR&amp;_nc_ad=z-m&amp;_nc_cid=1187&amp;_nc_eh=700a2a8f137a5ccd0f383b85ce679f99&amp;_nc_rml=0&amp;_nc_ht=z-m-scontent.fkrt1-1.fna&amp;oh=00_AT9w3sHEpnwsqPw-K5y1Dt1HaEspgXJ58w9R-n_VFMSOXQ&amp;oe=621853F8"
+                          src="img/facebook.png"
                           width="60"
                           class="_3-q3 img"
                         />
